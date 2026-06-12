@@ -36,37 +36,19 @@ A web-based chatbot developed using Flask, HTML, CSS, Bootstrap, and JavaScript 
 
 * JSON (chatbot_data.json)
 
-## 🚀 Installation
+###OutPut
+## Chatbot Home
+![Home](screenshots/1.png)
 
-### 1. Clone the Repository
+## Chatbot Response1
+![Response](screenshots/2.png)
 
-git clone <repository-url>
+## Chatbot Response2
+![Response](screenshots/3.png)
 
-### 2. Open Project Folder
+## Chatbot Response3
+![Response](screenshots/4.png)
 
-cd Smart-College-Chatbot
-
-### 3. Create Virtual Environment
-
-python -m venv .venv
-
-### 4. Activate Virtual Environment
-
-Windows:
-
-.venv\Scripts\activate
-
-### 5. Install Flask
-
-pip install flask
-
-### 6. Run Application
-
-python app.py
-
-### 7. Open Browser
-
-http://127.0.0.1:5000
 
 ## 💬 Sample Questions
 
